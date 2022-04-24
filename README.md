@@ -1,4 +1,5 @@
-#Snake
+Password Generator:
+-------------------
 
 ![alt text](https://github.com/berkan-alci/javascript-games/blob/main/Images/Password-Gen.png)
 
