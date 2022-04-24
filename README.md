@@ -1,27 +1,28 @@
 Password Generator:
 -------------------
+![Password Generator](https://github.com/berkan-alci/javascript-games/blob/main/Images/Password-Gen.png)
 
-![alt text](https://github.com/berkan-alci/javascript-games/blob/main/Images/Password-Gen.png)
+Simple Piano:
+-------------------
+![Simple Piano](https://github.com/berkan-alci/javascript-games/blob/main/Images/Simple-piano.png)
 
-#Password Generator
+Snake:
+-------------------
+![Snake](https://github.com/berkan-alci/javascript-games/blob/main/Images/Snake.png)
 
-https://gyazo.com/ac8df68494157034d6fb25c6b5ffb750
+Speed Typing:
+-------------------
+![Speed Typing](https://github.com/berkan-alci/javascript-games/blob/main/Images/Speed-Typing.png)
 
-#Simple Piano
+Flappy Bird:
+-------------------
+![Flappy Bird](https://github.com/berkan-alci/javascript-games/blob/main/Images/flappy-bird.png)
 
-https://gyazo.com/3dfae50c1a938e3d0e441431489b9619
+Simple Calculator:
+-------------------
+![Simple Calculator](https://github.com/berkan-alci/javascript-games/blob/main/Images/simple-calc.png)
 
-#Speed Typing
+Tic-Tac-Toe:
+-------------------
+![Tic-Tac-Toe](https://github.com/berkan-alci/javascript-games/blob/main/Images/tic-tac-toe.png)
 
-https://gyazo.com/ad93aafab3f79319fcb7de4539ba0e78
-
-#Tic-Tac-Toe
-https://gyazo.com/39b36ea157786d7ca509a11ba8fff29e
-
-#Flappy Bird
-
-https://gyazo.com/9b3f10f8c711f7a55717b3c8e7f0de58
-
-#Simple calculator
-
-https://gyazo.com/c73d10912f4601794ec7c1a0846f021a
